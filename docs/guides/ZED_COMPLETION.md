@@ -34,4 +34,4 @@ Once in the file add the following.
 ```
 After this you should start seeing code completions in Zed.
 
-![Image example of a code completion on Zed](./assets/images/zed_completion_example.png "Zed code completion example")
+![Image example of a code completion on Zed](../../assets/images/zed_completion_example.png "Zed code completion example")
