@@ -1,6 +1,6 @@
 # Ollama Installation and Setup (MacOS)
 > [!NOTE]
-> In this project I am using Mac as the main OS for the server, but other OS can be used for this make sure you take a look at [PLACEHOLDER CHANGE](PLACEHOLDER CHANGE)
+> In this project I am using Mac as the main OS for the server, but other OS can be used for this make sure you take a look at [Considerations for other operating systems](./os-considerations.md)
 > 
 > Note that links and commands will be provided only for Mac on this section
 
