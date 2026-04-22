@@ -26,7 +26,7 @@ ollama pull qwen2.5-coder:3b
 ```
 
 > [!NOTE]
-> You may need to increase or specify the context window of the model, if you need to do this, take a look at [PLACEHOLDER CHANGE](PATH TO THE FILE)
+> You may need to increase or specify the context window of the model, if you need to do this, take a look at [Modifying the context window of a model](./modify-context-window.md)
 
 ## Setup the Ollama server to start on startup
 Now that we have the Ollama models installed on our Mac, we need to find a way to start Ollama and serve Ollama on port 11434 on startup. To do this we can create a `plist` file and add it to the LaunchDaemons folder on our Mac, making it possible for the Ollama server to run immediately after log in.
